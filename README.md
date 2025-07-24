@@ -1,4 +1,4 @@
-## 🗣️ Text-to-Speech Converter
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/49f1829d-015f-42aa-9901-4cff2b719898" />## 🗣️ Text-to-Speech Converter
 
 A modern, browser-based Text-to-Speech (TTS) web application that allows users to convert typed text into natural-sounding speech. Built using HTML, CSS, and JavaScript with support for pitch, rate, and voice customization using the Web Speech API. Fully responsive with a beautiful dark-mode design and smooth animations.
 
@@ -6,7 +6,7 @@ A modern, browser-based Text-to-Speech (TTS) web application that allows users t
 
 ### 🔗 Live Demo
 
-👉 [Click here to view the live site](https://menaka-j.github.io/text-to-speech/)
+👉 [Click here to view the live site](https://menaka-j.github.io/Text-To-Speech/)
 *(Deployed using GitHub Pages)*
 
 ---
@@ -45,7 +45,7 @@ text-to-speech/
     └── text.png     # Favicon image
 ```
 
-
+---
 
 ### 📷 Screenshots
 
@@ -53,11 +53,11 @@ text-to-speech/
 
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/f4ebae11-83f3-4791-a492-c07db2917ca3" />
 
-
+---
 ### 📢 Web Speech API Note
 
 > This app uses the **Web Speech API**, which is supported in most modern browsers like **Chrome**, **Edge**, and **Safari**. Voice availability may vary by system and browser.
-
+---
  ### 🙌 Author
 
 Menaka J
