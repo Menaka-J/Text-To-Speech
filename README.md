@@ -1,4 +1,4 @@
-<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/49f1829d-015f-42aa-9901-4cff2b719898" />## 🗣️ Text-to-Speech Converter
+### 🗣️ Text-to-Speech Converter
 
 A modern, browser-based Text-to-Speech (TTS) web application that allows users to convert typed text into natural-sounding speech. Built using HTML, CSS, and JavaScript with support for pitch, rate, and voice customization using the Web Speech API. Fully responsive with a beautiful dark-mode design and smooth animations.
 
